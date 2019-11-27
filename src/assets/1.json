@@ -1,0 +1,102 @@
+{
+    "result": 1,
+    "data": [
+        {
+            "_id": "5d9dc72e09bbaf4dcf10ceb1",
+            "age": 30,
+            "work": "一年以上",
+            "address": "浙江省嘉兴市桐乡市",
+            "height": "170cm",
+            "email": "499353159@qq.com",
+            "sex": 1,
+            "skill": [
+                {
+                    "name": "javaScript",
+                    "class": 2
+                },
+                {
+                    "name": "css3",
+                    "class": 2
+                },
+                {
+                    "name": "Vue",
+                    "class": 2
+                },
+                {
+                    "name": "Sass",
+                    "class": 2
+                },
+                {
+                    "name": "Node",
+                    "class": 1
+                },
+                {
+                    "name": "Webpack",
+                    "class": 1
+                },
+                {
+                    "name": "ElementUI",
+                    "class": 1
+                },
+                {
+                    "name": "photoShop",
+                    "class": 2
+                },
+                {
+                    "name": "es6",
+                    "class": 2
+                }
+            ],
+            "desc": "态度端正，热爱学习，责任心强，无不良嗜好，js基础扎实，熟练使用Vue全家桶。熟悉webpack、node,了解elementUI、mongoDB。",
+            "workExperience": [
+                {
+                    "office": "前端开发工程师",
+                    "company": "浙江邦芒大数据有限公司",
+                    "nature": "民营企业",
+                    "NumberOfPeople": "200-500",
+                    "Duties": "通过UI图还原到网页，维护优化其他网站",
+                    "other": "兼职",
+                    "date": [
+                        "2019-03",
+                        "至今"
+                    ]
+                },
+                {
+                    "office": "美工、网页设计",
+                    "company": "嘉兴万象汽配有限公司",
+                    "nature": "私营企业",
+                    "NumberOfPeople": "50-200",
+                    "Duties": "负责产品抠图设计，海报宣传册设计，阿里国际站网页设计。",
+                    "other": "全职",
+                    "date": [
+                        "2018-07",
+                        "至今"
+                    ]
+                }
+            ],
+            "ProjectExperience": [
+                {
+                    "date": [
+                        "2019-04",
+                        "2019-06"
+                    ],
+                    "label": "vue多页应用-小说阅读器",
+                    "Duties": "整个前端独立开发，后端使用追书神器api",
+                    "desc": "根据追书神器接口，使用vue全家桶配置多页应用，实现阅读小说-无线端。 /n 使用rem做适配，sass预处理器。 /n 项目地址： daug.top"
+                },
+                {
+                    "date": [
+                        "2019-04",
+                        "至今"
+                    ],
+                    "label": "官方页面pc端和无线端实现",
+                    "Duties": "使用webpack配置autoprefixer做ie兼容，使用sass编写css，使用flex布局。",
+                    "desc": "项目地址：www.50bmkz.com /n www.50bm.com.cn /n www.renlibao.cn /n jxrlzy.com"
+                }
+            ],
+            "ename": "anlin",
+            "name": "胡占林",
+            "src": "http://localhost:5000/albums/anlin.jpg"
+        }
+    ]
+}
